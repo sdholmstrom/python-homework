@@ -7,12 +7,12 @@ The purpose of this analysis was to produce a predictive model that would succes
 
 ## Results
 
-*Logistic Regression Model:
+Logistic Regression Model:
   * Accuracy: 99.2%
   * Precision: 85%
   * Recall: 91%
 
-* Oversampled Logistic Regression Model:
+Oversampled Logistic Regression Model:
   * Accuracy: 99.4%
   * Precision: 84%
   * Recall: 99%

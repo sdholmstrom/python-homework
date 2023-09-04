@@ -18,3 +18,10 @@ As stated before, the first Robo-advisor came to market in 2008. Today there are
 
 Given the nature of Robo-advisors tend toward passive investing, expected returns advertised range from 2-6% per year. If comparing to S&P500 performance over a 5 year period through 11/2022 where the index fund by Vanguard (VOO) achieved a 10.9% yearly return, then an investor is sure to be disappointed. However, the increase in AUM over the last 15 years can't understate the growing popularity of the off-hands approach in using a Robo-advisor. If an investor seeks a human element or more active and specific portfolio strategies they would be better served by a human financial advisor.
 
+### Sources
+* https://www.investopedia.com/terms/r/roboadvisor-roboadviser.asp
+* https://investingintheweb.com/brokers/the-largest-robo-advisors-by-aum/
+* https://www.moneyunder30.com/are-robo-advisors-worth-it/
+* https://unhedged.com.au/the-history-of-robo-advisors/
+* https://www.statista.com/outlook/dmo/fintech/digital-investment/robo-advisors/worldwide
+* https://www.financialsamurai.com/largest-robo-advisors-by-assets-under-management-aum/

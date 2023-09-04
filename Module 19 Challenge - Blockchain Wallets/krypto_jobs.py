@@ -90,28 +90,28 @@ from crypto_wallet import generate_account, get_balance, send_transaction
 candidate_database = {
     "Lane": [
         "Lane",
-        "0xaC8eB8B2ed5C4a0fC41a84Ee4950F417f67029F0",
+        "0xE5cFE1C29834Bf00B00c58ab8D4F73A400824a11",
         "4.3",
         0.20,
         "Images/lane.jpeg",
     ],
     "Ash": [
         "Ash",
-        "0x2422858F9C4480c2724A309D58Ffd7Ac8bF65396",
+        "0x68961ca2789E922388C632788209e7DC404190BD",
         "5.0",
         0.33,
         "Images/ash.jpeg",
     ],
     "Jo": [
         "Jo",
-        "0x8fD00f170FDf3772C5ebdCD90bF257316c69BA45",
+        "0xfe6Fab82f33177B8D89ed3851688f3961901DAC8",
         "4.7",
         0.19,
         "Images/jo.jpeg",
     ],
     "Kendall": [
         "Kendall",
-        "0x8fD00f170FDf3772C5ebdCD90bF257316c69BA45",
+        "0x461F5bF9eBe0bA23ED87C91584ECa45222d007da",
         "4.1",
         0.16,
         "Images/kendall.jpeg",
@@ -298,7 +298,7 @@ if st.sidebar.button("Send Transaction"):
     st.sidebar.markdown("#### Validated Transaction Hash")
     
     # Call the send_transaction function and capture the transaction hash
-    max_fee_per_gas = 600000000
+    max_fee_per_gas = 875000000
     transaction_hash = send_transaction(w3, account, candidate_address, wage, max_fee_per_gas)
 
     # Write the returned transaction hash to the screen
